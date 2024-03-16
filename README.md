@@ -29,9 +29,13 @@ anubis@anubis-ide : ~
 
 
 Cache L1 has size 4, associativity 1, blocksize 1, rows 4
+
 L1 MISS  pc:    1       addr:   50      row:   2
+
 L1 SW    pc:    2       addr:   50      row:   2
+
 L1 HIT   pc:    3       addr:   50      row:   2
+
 
 ## File Structure
 sim_cache.cpp: The main source code file containing the cache simulator implementation.
