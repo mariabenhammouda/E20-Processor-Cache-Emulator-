@@ -1,6 +1,6 @@
 # E20-Processor-Cache-Emulator-
 ## Overview
-This repository contains a cache simulator implemented in C++. The simulator is capable of simulating both single-level and two-level caches and can execute machine code stored in a binary file. The cache simulator supports various cache configurations, including cache size, associativity, and block size.
+I created this tool to understand caching better. It was instrumental in my exam preparations, where I would manually perform calculations and then cross-reference them with the code. I hope it proves helpful to other students as well. This repository contains a cache simulator implemented in C++. The simulator is capable of simulating both single-level and two-level caches and can execute machine code stored in a binary file. The cache simulator supports various cache configurations, including cache size, associativity, and block size.
 
 ## Usage
 To use the cache simulator, follow these steps:
